@@ -38,5 +38,10 @@ p{
 /*Terceira imagem da página*/
 #Imagem-3{
     float: right;
-    
+
+}
+
+#section{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
 }
