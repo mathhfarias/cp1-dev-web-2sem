@@ -32,5 +32,11 @@ p{
 
 #text-2{
     text-align: justify;
+
+}
+
+/*Terceira imagem da página*/
+#Imagem-3{
+    float: right;
     
 }
