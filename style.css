@@ -9,3 +9,9 @@ h1{
     text-align: center;
     font-size: 30px;
 }
+
+/*Titulo principal da página*/
+#titulo1{
+    background-color: blanchedalmond ;
+    border: 1px solid black;
+}
