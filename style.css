@@ -45,3 +45,10 @@ p{
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+/*Todos os direitos reservados*/
+h3{
+    color: red;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
