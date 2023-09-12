@@ -25,3 +25,7 @@ h1{
 p{
     color:#fff
 }
+
+.container{
+    display: flex;
+}
