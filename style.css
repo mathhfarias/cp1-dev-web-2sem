@@ -29,3 +29,8 @@ p{
 .container{
     display: flex;
 }
+
+#text-2{
+    text-align: justify;
+    
+}
